@@ -29,4 +29,4 @@ Start the server:
 npm start
 ```  
 ## usage  
-Send a `__POST__` request to `__http://localhost:3000/createRandomPost__` to create a new random post. The response will contain the created post as JSON.
+Send a `POST` request to `http://localhost:3000/createRandomPost` to create a new random post. The response will contain the created post as JSON.
