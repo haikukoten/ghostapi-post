@@ -1,0 +1,20 @@
+{
+  "name": "ghost-random-post-express",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tryghost/admin-api": "^1.13.4",
+    "@tryghost/content-api": "^1.11.7",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
